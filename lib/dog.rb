@@ -1,3 +1,3 @@
 class Dog
-  Dog < ActiveRecord
+  Dog < ActiveRecord::Base
 end
